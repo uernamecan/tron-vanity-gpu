@@ -2,6 +2,8 @@
 
 用 NVIDIA GPU 在本机搜索指定尾号的 TRON 地址。找到候选后，脚本会用独立的 Python CPU 实现从私钥重新推导地址，并复核尾号。
 
+**Telegram 联系方式** [@WhotheRico](https://t.me/WhotheRico)
+
 ## 快速开始
 
 需要 64 位 Python 3.10+、支持 CUDA 的 NVIDIA GPU 和兼容的 NVIDIA 驱动。Windows 11、Python 3.13、RTX 5060 Ti 和 CUDA 12.9 已实测。RTX 50 系需要支持 Blackwell 的环境，使用 CUDA 12 时请准备 CUDA 12.8 或更新的 12.x NVRTC。CuPy 官方的 `[ctk]` 安装方式可同时安装所需 CUDA 组件。 [CuPy 安装文档](https://docs.cupy.dev/en/stable/install.html) · [NVIDIA Blackwell 兼容性说明](https://docs.nvidia.com/cuda/blackwell-compatibility-guide/)
