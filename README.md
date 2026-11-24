@@ -57,6 +57,10 @@ RTX 5060 Ti 开启调优缓存后的 8 秒复测吞吐量如下。数值按候�
 TB9a6dqzq8iwdXssLupG1ganJo88888888
 ```
 
+## Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=uernamecan/tron-vanity-gpu&type=Date)](https://star-history.com/#uernamecan/tron-vanity-gpu&Date)
+
 ## 许可证
 
 本项目使用 [MIT 许可证](LICENSE)。
