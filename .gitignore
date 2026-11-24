@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.cupy/
+tron_vanity_tune.json
+tron_vanity_found.txt
+*.tronkey
+keys/
+results/
